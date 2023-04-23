@@ -1,7 +1,7 @@
 # dgs-java
 Netflix DGS for mere mortals
 
-This is a port of Netflix's [DGS Framework](https://github.com/Netflix/dgs-framework) for GraphQL-java from Kotlin to Java.
+This is a port of Netflix's [DGS Framework](https://github.com/Netflix/dgs-framework) for [GraphQL-java](https://github.com/graphql-java/graphql-java) from Kotlin to Java.
 
 At this point, the port is not guaranteed to work as my main objective
 was to try to understand how some of the framework's features are implemented
